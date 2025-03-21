@@ -6,7 +6,15 @@
 I'm a Master's student at Southeast University supervised by [Prof.Xu Yang](https://yxpalmweb.github.io/).
 
 - 🔭 I'm currently working as a Research Intern at Stepfun
+- 🏋️ I enjoy going to the gym in my free time
 - 📫 How to reach me: yongliang0223@gmail.com
+
+## 💼 Experience
+- Research Intern, Stepfun, Topic: Image Editing.
+- Research Intern, Shanghai AI Lab, Topic: Machine Unlearning.
+- Research Intern, WeChat Tencent Inc., Topic: Video Understanding.
+- Machine Learning Engineer Intern, OpusClip, Topic: AI Agent.
+- Machine Learning Engineer Intern, Mettler-Toledo Inc., Topic: Image Classification.
 
 ## 🛠 Skills
 
